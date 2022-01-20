@@ -4,7 +4,7 @@ import {SiGmail} from 'react-icons/si'
 
 function Footer() {
     return (
-        <div data-aos="fade-up" data-aos-duration="800">
+        <div >
             <footer class="py-5 bg-black rounded-lg sm:bg-white shadow-xl drop-shadow-lg">
             <div class="flex justify-center space-x-5 my-2 ">
                    <div class="flex items-center justify-center bg-white rounded-full w-10 h-10 hover:bg-gray-400">

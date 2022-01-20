@@ -3,3 +3,9 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+@layer components {
+  .glasseffect {
+    @apply backdrop-blur-md backdrop-opacity-10;
+  }}

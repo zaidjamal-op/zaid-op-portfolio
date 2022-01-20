@@ -1,8 +1,8 @@
-import About from "./component/About";
-import Card from "./component/Card";
-import ContactMe from "./component/ContactMe";
-import Footer from "./component/Footer";
-import Skills from "./component/Skills";
+import About from "./components/About";
+import Card from "./components/Card";
+import ContactMe from "./components/ContactMe";
+import Footer from "./components/Footer";
+import Skills from "./components/Skills";
 import AOS from 'aos';
 import 'aos/dist/aos.css'
 import { useEffect } from "react";

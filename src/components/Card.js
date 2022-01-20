@@ -4,7 +4,7 @@ import {FaGithub, FaLinkedinIn, } from 'react-icons/fa'
 import {SiGmail} from 'react-icons/si'
 function Card() {
     return (
-        <div class = "w-full">
+        <div class="w-full">
 
             <div class = "flex flex-col justify-center  max-w-sm mx-auto sm:bg-white bg-black shadow-lg rounded-lg">
                 <div>
